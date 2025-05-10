@@ -7,7 +7,7 @@ ICD-10 medical diagnostic codes (top 10,000)
 
 It then computes similarity scores between patient notes and ICD-10 codes using cosine similarity, helping suggest potential diagnoses based on text input.
 
-****⚙️ How It Works**
+**⚙️ How It Works**
 Data Preparation
   - Extract pediatric notes (ages 0–10) from PMC_Patients_cleaned.csv.
   - Limit to the first 10 patient notes for performance testing.
