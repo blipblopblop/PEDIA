@@ -2,7 +2,7 @@
 
 PEDIA utilizes the text-embedding-ada-002 model via the Azure OpenAI Service to generate vector representations (embeddings) of both:
   - Pediatric patient notes (ages 0–10)
-  - ICD-10 medical diagnostic codes (top 10,000)
+  - ICD-10 medical diagnostic codes (first 10,000 rows)
 
 It then computes similarity scores between patient notes and ICD-10 codes using cosine similarity, helping suggest potential diagnoses based on text input.
 
