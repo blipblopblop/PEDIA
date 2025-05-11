@@ -27,8 +27,8 @@ Similarity Matching
 - Custom Dataset: Works with the Ped_Patient_Notes_Embdng.csv dataset extracted from PMC_Patients_clean.csv
 
 **Download dataset:** 
-[Pediatric Notes CSV] https://drive.google.com/file/d/11ln9ZuUO8wOkAJ_6lXNqP51TT5iRqu6m/view?usp=sharing
-[ICD-10 codes CSV] https://drive.google.com/file/d/1_NrCswMwpPTCiQREX4i5wihExSu-SgK4/view?usp=sharing
-[Similarity Score CSV] https://drive.google.com/file/d/1SYrMtjYFQEbHRJPWa9Apzd2i7_Mp4388/view?usp=sharing
+- [Pediatric Notes CSV] https://drive.google.com/file/d/11ln9ZuUO8wOkAJ_6lXNqP51TT5iRqu6m/view?usp=sharing
+- [ICD-10 codes CSV] https://drive.google.com/file/d/1_NrCswMwpPTCiQREX4i5wihExSu-SgK4/view?usp=sharing
+- [Similarity Score CSV] https://drive.google.com/file/d/1SYrMtjYFQEbHRJPWa9Apzd2i7_Mp4388/view?usp=sharing
   
 <img width="377" alt="Screenshot 2025-05-11 at 3 21 16 PM" src="https://github.com/user-attachments/assets/56e423ad-4466-4fca-ae5c-97221cf6fcb1" />
