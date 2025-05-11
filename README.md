@@ -1,5 +1,7 @@
 **🧠 Overview**
 
+PEDIA: Pediatric Evaluation and Diagnostic Interface for Assessment
+
 PEDIA utilizes the text-embedding-ada-002 model via the Azure OpenAI Service to generate vector representations (embeddings) of both:
   - Pediatric patient notes (ages 0–10)
   - ICD-10 medical diagnostic codes (first 10,000 rows)
