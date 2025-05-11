@@ -17,13 +17,13 @@ Embedding Generation
     - First 10,000 ICD-10 codes ICD_10_Codes_Embdng.csv
 
 Similarity Matching
-  - Compute cosine similarity between note embeddings and ICD-10 embeddings.
-  - Rank ICD-10 codes by similarity score for each patient note refer to Simlariity_ICDCode_PateintDescp.csv
+  - Compute cosine similarity between Pediatric Patient note embeddings and ICD-10 embeddings.
+  - Rank ICD-10 codes by similarity score for each patient note, refer to Simlariity_ICDCode_PateintDescp.csv
 
 **🔍 Key Features**
 - Early Diagnostic Aid: Helps nurses identify likely conditions before a doctor is available.
 - NLP-Powered: Uses state-of-the-art vector embeddings for natural language understanding, refer to Ped_Patient_Notes_Embdng.csv and ICD_10_Codes_Embdng.csv
-- Similarity Scoring: Ranks ICD-10 codes based on relevance to patient note,s refer to Simlariity_ICDCode_PateintDescp.csv
-- Custom Dataset: Works with the Pediatric_Notes dataset extracted from PMC_Patients_clean.csv
+- Similarity Scoring: Ranks ICD-10 codes based on relevance to patient note,s refer to Similarity_ICDCode_PatientDescp.csv
+- Custom Dataset: Works with the Ped_Patient_Notes_Embdng.csv dataset extracted from PMC_Patients_clean.csv
   
 <img width="559" alt="Screenshot 2025-05-10 at 5 58 17 PM" src="https://github.com/user-attachments/assets/2f7bc414-5182-4c14-bc8e-ec2f42339e0f" />
