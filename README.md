@@ -26,4 +26,4 @@ Similarity Matching
 - Similarity Scoring: Ranks ICD-10 codes based on relevance to patient note,s refer to Similarity_ICDCode_PatientDescp.csv
 - Custom Dataset: Works with the Ped_Patient_Notes_Embdng.csv dataset extracted from PMC_Patients_clean.csv
   
-<img width="559" alt="Screenshot 2025-05-10 at 5 58 17 PM" src="https://github.com/user-attachments/assets/2f7bc414-5182-4c14-bc8e-ec2f42339e0f" />
+<img width="377" alt="Screenshot 2025-05-11 at 3 21 16 PM" src="https://github.com/user-attachments/assets/56e423ad-4466-4fca-ae5c-97221cf6fcb1" />
